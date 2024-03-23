@@ -1,5 +1,5 @@
 
-# Using ChatGPT API to create its clone
+# ChatGPT Clone
 
 
 
