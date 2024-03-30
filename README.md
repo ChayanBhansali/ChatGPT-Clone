@@ -9,7 +9,7 @@ I used openAI and chainlit documentations as reference, here are the links to th
 https://platform.openai.com/docs/api-reference \
 https://docs.chainlit.io/get-started/overview
 # Snapshot
-![chat Screenshot](https://github.com/ChayanBhansali/LLM/blob/main/chat.png)
+![chat Screenshot](https://github.com/ChayanBhansali/ChatGPT-Clone/blob/main/chat.png)
 ## 🔗 Links
 
 
