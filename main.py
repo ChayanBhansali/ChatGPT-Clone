@@ -1,4 +1,6 @@
 import os
+
+#no longer working key
 os.environ['OPENAI_API_KEY'] = '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'
 
 
@@ -8,13 +10,13 @@ import chainlit as cl
 
 client = AsyncOpenAI(api_key= os.getenv('OPENAI_API_KEY'))
 
-# Instrument the OpenAI client
+
 cl.instrument_openai()
 
 settings = {
     "model": "gpt-3.5-turbo",
     "temperature": 0,
-    # ... more settings
+    
 }
 
 @cl.on_message
